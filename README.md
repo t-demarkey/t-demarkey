@@ -1,16 +1,16 @@
-## Hi there 👋
+#I'm Tommy 
 
-<!--
-**t-demarkey/t-demarkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+I like building real apps that people actually use.
 
-Here are some ideas to get you started:
+### Featured Projects
+- **Easterns App** – Flutter + Firebase real-time tournament app  
+  https://github.com/t-demarkey/EasternsApp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Space Exploration App** – Astronomy learning app with quizzes + NASA + YouTube API  
+  https://github.com/t-demarkey/SpaceExploration
+
+### About Me
+- UNCW CS graduate  
+- SWE at Graham Capital  
+
