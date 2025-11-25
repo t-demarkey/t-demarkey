@@ -5,7 +5,7 @@ I like building real apps that people actually use.
 
 ### Featured Projects
 - **Easterns App** – Flutter + Firebase real-time tournament app  
-  https://github.com/t-demarkey/EasternsApp
+  [https://github.com/t-demarkey/EasternsApp](https://github.com/t-demarkey/easterns2024)
 
 - **Space Exploration App** – Astronomy learning app with quizzes + NASA + YouTube API  
   https://github.com/t-demarkey/SpaceExploration
